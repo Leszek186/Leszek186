@@ -10,7 +10,9 @@ I'm currently learning and developing my skills in:
 
 🔍 I'm currently working on personal projects in SQL and Python – you can find them in my repositories.  
 
-📫 Feel free to connect with me on **www.linkedin.com/in/leszek-harasimiuk-aa729035**.  
+📫 Feel free to connect with me on <a href="https://linkedin.com/in/leszek" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>.  
 
 🚀 Always eager to learn new technologies and collaborate on interesting projects – let’s connect!  
 
