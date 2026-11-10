@@ -1,15 +1,17 @@
-# Hello I'm Leszek! 👋  
+# Hi, I'm Leszek 👋
 
-I'm an aspiring data analyst passionate about uncovering valuable insights from data.  
-I'm currently learning and developing my skills in:  
-- **SQL** 🛢️ – database queries, data analysis  
-- **Python** 🐍 – data processing, automation, Pandas & NumPy  
-- **Excel** 📊 – reports, pivot tables, data visualization  
+Aspiring **Data Analyst** from Poland. I also run a small e-commerce company,
+so I care about analysis that answers real questions about sales and margins.
 
-💡 My goal is to become a **data analyst** or **data scientist** and work on exciting data-driven projects.  
+## What I'm working on
+- 🧹 **Power Query** – cleaning and preparing data → [Power-Query-Projects](https://github.com/Leszek186/Power-Query-Projects)
+- 📊 **Flagship project (in progress)** – retail sales analysis on the *Online Retail II* dataset
 
-🔍 I'm currently working on personal projects in SQL and Python – you can find them in my repositories.  
+## Tools I use today
+Excel (reports, pivot tables) · Power Query
 
+## Learning
+SQL · Python (pandas) · Power BI · English and Spanish
 📫 Feel free to connect with me on 🏢 [LinkedIn](https://linkedin.com/in/leszek-harasimiuk-aa729035)  
 
 🚀 Always eager to learn new technologies and collaborate on interesting projects – let’s connect!  
